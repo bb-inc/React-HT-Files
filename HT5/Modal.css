@@ -1,0 +1,8 @@
+.modal {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 400px;
+    background-color: blueviolet;
+}

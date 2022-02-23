@@ -1,0 +1,13 @@
+.sidebar {
+    background-color: rgb(255, 0, 0);
+    width: 15vw;
+    height: 75vh;
+    margin: 0 3vw;
+    padding: 0;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    list-style-type: none;
+}
